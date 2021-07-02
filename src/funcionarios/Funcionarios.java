@@ -1,6 +1,4 @@
 package funcionarios;
-
-
 public class Funcionarios {
 
    
